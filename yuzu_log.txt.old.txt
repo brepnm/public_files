@@ -1,0 +1,438 @@
+[   0.185481] Input <Info> input_common\drivers\udp_client.cpp:UDPClient:139: Udp Initialization started
+[   0.185499] Input <Info> input_common\drivers\udp_client.cpp:StartCommunication:331: Starting communication with UDP input server on 127.0.0.1:26760
+[   0.248641] Input <Info> input_common\drivers\joycon.cpp:Joycons:22: Joycon driver Initialization started
+[   0.288787] Frontend <Info> yuzu\main.cpp:GMainWindow:373: yuzu Version: yuzu 1586
+[   0.288817] Frontend <Info> yuzu\main.cpp:LogRuntimes:250: MSVC Compiler: 1935 Runtime: 14.34.31931.0
+[   0.288819] Frontend <Info> yuzu\main.cpp:LogRuntimes:259: Qt Compile: 5.15.2 Runtime: 5.15.2
+[   0.288821] Frontend <Info> yuzu\main.cpp:GMainWindow:389: Host CPU:         Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz | AVX
+[   0.288829] Frontend <Info> yuzu\main.cpp:GMainWindow:391: Host CPU Cores: 4
+[   0.288830] Frontend <Info> yuzu\main.cpp:GMainWindow:394: Host CPU Threads: 4
+[   0.289019] Frontend <Info> yuzu\main.cpp:GMainWindow:395: Host OS: Windows 10 Version 22H2 (Build 19045.2364)
+[   0.289037] Frontend <Info> yuzu\main.cpp:GMainWindow:397: Host RAM: 11.98 GiB
+[   0.289040] Frontend <Info> yuzu\main.cpp:GMainWindow:398: Host Swap: 1.81 GiB
+[   0.289067] Frontend <Info> yuzu\main.cpp:GMainWindow:403: Host Timer Resolution: 0.4995 ms
+[   0.739718] Common.Filesystem <Error> common\fs\fs.cpp:IterateDirEntries:418: Filesystem object at path=D:/Super Mario Odyssey [NSP] does not exist
+[   0.739740] Common.Filesystem <Error> common\fs\fs.cpp:IterateDirEntries:418: Filesystem object at path=D:/Super Mario Odyssey [NSP] does not exist
+[   0.739832] Common.Filesystem <Error> common\fs\fs.cpp:IterateDirEntries:418: Filesystem object at path=C:/Astral Chain [NSP] does not exist
+[   0.739866] Common.Filesystem <Error> common\fs\fs.cpp:IterateDirEntries:418: Filesystem object at path=C:/Astral Chain [NSP] does not exist
+[   0.747720] Loader <Warning> core\loader\loader.cpp:GetLoader:259: File Super Mario Odyssey [0100000000010800][v262144].nsp has a different type (unknown) than its extension.
+[   0.766110] Loader <Warning> core\loader\loader.cpp:GetLoader:259: File Super Mario Odyssey [0100000000010800][v262144].nsp has a different type (unknown) than its extension.
+[   0.792083] Loader <Warning> core\loader\loader.cpp:GetLoader:259: File The Legend of Zelda Skyward Sword HD [01002DA013484800][v65536] (0.04 GB).nsp has a different type (unknown) than its extension.
+[   0.840855] Loader <Warning> core\loader\loader.cpp:GetLoader:259: File The Legend of Zelda Skyward Sword HD [01002DA013484800][v65536] (0.04 GB).nsp has a different type (unknown) than its extension.
+[   0.845315] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:451:     RomFS: Update (v0.28.0) applied successfully
+[   0.850570] Loader <Warning> core\loader\loader.cpp:GetLoader:259: File Animal Crossing New Horizons [01006F8002326800][v1835008].nsp has a different type (unknown) than its extension.
+[   0.856561] Loader <Warning> core\loader\loader.cpp:GetLoader:259: File Animal Crossing New Horizons [DLC Happy Home Paradise] [01006F80023273E8][v0].nsp has a different type (unknown) than its extension.
+[   0.858520] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:451:     RomFS: Update (v0.28.0) applied successfully
+[   0.869624] Loader <Warning> core\loader\loader.cpp:GetLoader:259: File Animal Crossing New Horizons [01006F8002326800][v1835008].nsp has a different type (unknown) than its extension.
+[   0.875782] Loader <Warning> core\loader\loader.cpp:GetLoader:259: File Animal Crossing New Horizons [DLC Happy Home Paradise] [01006F80023273E8][v0].nsp has a different type (unknown) than its extension.
+[   0.878217] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:451:     RomFS: Update (v0.2.0) applied successfully
+[   0.882157] Loader <Warning> core\loader\loader.cpp:GetLoader:259: File The Legend of Zelda Tears of the Kingdom [0100F2C0115B6800][v131072].nsp has a different type (unknown) than its extension.
+[   0.886676] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:451:     RomFS: Update (v0.2.0) applied successfully
+[   0.897087] Loader <Warning> core\loader\loader.cpp:GetLoader:259: File The Legend of Zelda Tears of the Kingdom [0100F2C0115B6800][v131072].nsp has a different type (unknown) than its extension.
+[   0.913399] Common.Filesystem <Error> common\fs\fs.cpp:IterateDirEntries:418: Filesystem object at path=I:/Games/Switch/Pokemon Legends Arceus [NSZ] does not exist
+[   0.913423] Common.Filesystem <Error> common\fs\fs.cpp:IterateDirEntries:418: Filesystem object at path=I:/Games/Switch/Pokemon Legends Arceus [NSZ] does not exist
+[   3.689114] Frontend <Info> yuzu\main.cpp:OnGameListOpenFolder:2316: Opening Save Data path for program_id=0100dca0064a6000
+[   8.328153] Frontend <Info> yuzu\main.cpp:OnGameListOpenFolder:2316: Opening Save Data path for program_id=010093801237c000
+[  18.356210] Frontend <Info> yuzu\main.cpp:BootGame:1906: yuzu starting...
+[  18.383784] Config <Info> common\settings.cpp:LogSettings:110: yuzu Configuration:
+[  18.383793] Config <Info> common\settings.cpp:operator ():103: -- Audio.output_engine: auto
+[  18.383794] Config <Info> common\settings.cpp:operator ():103: -- Audio.output_device: auto
+[  18.383795] Config <Info> common\settings.cpp:operator ():103: -- Audio.input_device: auto
+[  18.383797] Config <Info> common\settings.cpp:operator ():103: -- Audio.volume: 100
+[  18.383798] Config <Info> common\settings.cpp:operator ():103: -- Audio.audio_muted: false
+[  18.383799] Config <Info> common\settings.cpp:operator ():103: -- Audio.dump_audio_commands: false
+[  18.383801] Config <Info> common\settings.cpp:operator ():103: -- Core.use_multi_core: true
+[  18.383807] Config <Info> common\settings.cpp:operator ():103: -- Core.memory_layout_mode: Memory_4Gb
+[  18.383809] Config <Info> common\settings.cpp:operator ():103: -- Core.use_speed_limit: true
+[  18.383810] Config <Info> common\settings.cpp:operator ():103: -- Core.speed_limit: 100
+[  18.383823] Config <Info> common\settings.cpp:operator ():103: M- Cpu.cpu_accuracy: Unsafe
+[  18.383824] Config <Info> common\settings.cpp:operator ():103: -- Cpu.cpu_debug_mode: false
+[  18.383825] Config <Info> common\settings.cpp:operator ():103: -- Cpu.cpuopt_page_tables: true
+[  18.383827] Config <Info> common\settings.cpp:operator ():103: -- Cpu.cpuopt_block_linking: true
+[  18.383828] Config <Info> common\settings.cpp:operator ():103: -- Cpu.cpuopt_return_stack_buffer: true
+[  18.383829] Config <Info> common\settings.cpp:operator ():103: -- Cpu.cpuopt_fast_dispatcher: true
+[  18.383830] Config <Info> common\settings.cpp:operator ():103: -- Cpu.cpuopt_context_elimination: true
+[  18.383831] Config <Info> common\settings.cpp:operator ():103: -- Cpu.cpuopt_const_prop: true
+[  18.383832] Config <Info> common\settings.cpp:operator ():103: -- Cpu.cpuopt_misc_ir: true
+[  18.383842] Config <Info> common\settings.cpp:operator ():103: -- Cpu.cpuopt_reduce_misalign_checks: true
+[  18.383845] Config <Info> common\settings.cpp:operator ():103: -- Cpu.cpuopt_fastmem: true
+[  18.383846] Config <Info> common\settings.cpp:operator ():103: -- Cpu.cpuopt_fastmem_exclusives: true
+[  18.383847] Config <Info> common\settings.cpp:operator ():103: -- Cpu.cpuopt_recompile_exclusives: true
+[  18.383848] Config <Info> common\settings.cpp:operator ():103: -- Cpu.cpuopt_ignore_memory_aborts: true
+[  18.383849] Config <Info> common\settings.cpp:operator ():103: -- Cpu.cpuopt_unsafe_unfuse_fma: true
+[  18.383850] Config <Info> common\settings.cpp:operator ():103: -- Cpu.cpuopt_unsafe_reduce_fp_error: true
+[  18.383852] Config <Info> common\settings.cpp:operator ():103: -- Cpu.cpuopt_unsafe_ignore_standard_fpcr: true
+[  18.383853] Config <Info> common\settings.cpp:operator ():103: -- Cpu.cpuopt_unsafe_inaccurate_nan: true
+[  18.383854] Config <Info> common\settings.cpp:operator ():103: -- Cpu.cpuopt_unsafe_fastmem_check: true
+[  18.383855] Config <Info> common\settings.cpp:operator ():103: -- Cpu.cpuopt_unsafe_ignore_global_monitor: true
+[  18.383857] Config <Info> common\settings.cpp:operator ():103: -C Renderer.backend: Vulkan
+[  18.383859] Config <Info> common\settings.cpp:operator ():103: -- Renderer.shader_backend: Glsl
+[  18.383860] Config <Info> common\settings.cpp:operator ():103: -C Renderer.vulkan_device: 0
+[  18.383861] Config <Info> common\settings.cpp:operator ():103: -- Renderer.use_disk_shader_cache: true
+[  18.383862] Config <Info> common\settings.cpp:operator ():103: -- Renderer.use_asynchronous_gpu_emulation: true
+[  18.383864] Config <Info> common\settings.cpp:operator ():103: -- Renderer.accelerate_astc: Gpu
+[  18.383866] Config <Info> common\settings.cpp:operator ():103: -- Renderer.use_vsync: Fifo
+[  18.383867] Config <Info> common\settings.cpp:operator ():103: -- Renderer.nvdec_emulation: Gpu
+[  18.383869] Config <Info> common\settings.cpp:operator ():103: M- Renderer.fullscreen_mode: Exclusive
+[  18.383871] Config <Info> common\settings.cpp:operator ():103: -- Renderer.aspect_ratio: R16_9
+[  18.383877] Config <Info> common\settings.cpp:operator ():103: -- Renderer.resolution_setup: Res1X
+[  18.383879] Config <Info> common\settings.cpp:operator ():103: M- Renderer.scaling_filter: Bicubic
+[  18.383881] Config <Info> common\settings.cpp:operator ():103: -- Renderer.anti_aliasing: None
+[  18.383882] Config <Info> common\settings.cpp:operator ():103: -- Renderer.fsr_sharpening_slider: 25
+[  18.383884] Config <Info> common\settings.cpp:operator ():103: -- Renderer.bg_red: 0
+[  18.383885] Config <Info> common\settings.cpp:operator ():103: -- Renderer.bg_green: 0
+[  18.383886] Config <Info> common\settings.cpp:operator ():103: -- Renderer.bg_blue: 0
+[  18.383888] Config <Info> common\settings.cpp:operator ():103: M- Renderer.gpu_accuracy: Normal
+[  18.383892] Config <Info> common\settings.cpp:operator ():103: -- Renderer.max_anisotropy: Automatic
+[  18.383894] Config <Info> common\settings.cpp:operator ():103: -- Renderer.astc_recompression: Uncompressed
+[  18.383895] Config <Info> common\settings.cpp:operator ():103: M- Renderer.async_presentation: true
+[  18.383896] Config <Info> common\settings.cpp:operator ():103: M- Renderer.force_max_clock: true
+[  18.383897] Config <Info> common\settings.cpp:operator ():103: -- Renderer.use_reactive_flushing: true
+[  18.383898] Config <Info> common\settings.cpp:operator ():103: M- Renderer.use_asynchronous_shaders: true
+[  18.383901] Config <Info> common\settings.cpp:operator ():103: -- Renderer.use_fast_gpu_time: true
+[  18.383902] Config <Info> common\settings.cpp:operator ():103: -- Renderer.use_vulkan_driver_pipeline_cache: true
+[  18.383903] Config <Info> common\settings.cpp:operator ():103: -- Renderer.enable_compute_pipelines: false
+[  18.383904] Config <Info> common\settings.cpp:operator ():103: -- Renderer.use_video_framerate: false
+[  18.383905] Config <Info> common\settings.cpp:operator ():103: -- Renderer.barrier_feedback_loops: true
+[  18.383907] Config <Info> common\settings.cpp:operator ():103: -- Renderer.debug: false
+[  18.383908] Config <Info> common\settings.cpp:operator ():103: -- Renderer.shader_feedback: false
+[  18.383909] Config <Info> common\settings.cpp:operator ():103: -- Renderer.nsight_aftermath: false
+[  18.383917] Config <Info> common\settings.cpp:operator ():103: -- Renderer.disable_shader_loop_safety_checks: false
+[  18.383918] Config <Info> common\settings.cpp:operator ():103: -- Renderer.renderdoc_hotkey: false
+[  18.383922] Config <Info> common\settings.cpp:operator ():103: -- System.language_index: EnglishAmerican
+[  18.383924] Config <Info> common\settings.cpp:operator ():103: -- System.region_index: Usa
+[  18.383931] Config <Info> common\settings.cpp:operator ():103: -- System.time_zone_index: Auto
+[  18.383932] Config <Info> common\settings.cpp:operator ():103: -- System.custom_rtc_enabled: false
+[  18.383934] Config <Info> common\settings.cpp:operator ():103: M- System.custom_rtc: 1697260237
+[  18.383935] Config <Info> common\settings.cpp:operator ():103: -- System.rng_seed_enabled: false
+[  18.383936] Config <Info> common\settings.cpp:operator ():103: -- System.rng_seed: 0
+[  18.383937] Config <Info> common\settings.cpp:operator ():103: -- System.device_name: yuzu
+[  18.383938] Config <Info> common\settings.cpp:operator ():103: -- System.current_user: 0
+[  18.383940] Config <Info> common\settings.cpp:operator ():103: -- System.use_docked_mode: Docked
+[  18.383942] Config <Info> common\settings.cpp:operator ():103: -- System.sound_index: Stereo
+[  18.383943] Config <Info> common\settings.cpp:operator ():103: -- Data Storage.use_virtual_sd: true
+[  18.383946] Config <Info> common\settings.cpp:operator ():103: -- Data Storage.gamecard_inserted: false
+[  18.383954] Config <Info> common\settings.cpp:operator ():103: -- Data Storage.gamecard_current_game: false
+[  18.383955] Config <Info> common\settings.cpp:operator ():103: -- Data Storage.gamecard_path: 
+[  18.383957] Config <Info> common\settings.cpp:operator ():103: -- Debugging.use_gdbstub: false
+[  18.383958] Config <Info> common\settings.cpp:operator ():103: -- Debugging.gdbstub_port: 6543
+[  18.383959] Config <Info> common\settings.cpp:operator ():103: -- Debugging.program_args: 
+[  18.383960] Config <Info> common\settings.cpp:operator ():103: -- Debugging.dump_exefs: false
+[  18.383961] Config <Info> common\settings.cpp:operator ():103: -- Debugging.dump_nso: false
+[  18.383962] Config <Info> common\settings.cpp:operator ():103: -- Debugging.enable_fs_access_log: false
+[  18.383963] Config <Info> common\settings.cpp:operator ():103: -- Debugging.reporting_services: false
+[  18.383965] Config <Info> common\settings.cpp:operator ():103: -- Debugging.quest_flag: false
+[  18.383966] Config <Info> common\settings.cpp:operator ():103: -- Debugging.extended_logging: false
+[  18.383967] Config <Info> common\settings.cpp:operator ():103: -- Debugging.use_debug_asserts: false
+[  18.383968] Config <Info> common\settings.cpp:operator ():103: -- Debugging.use_auto_stub: false
+[  18.383969] Config <Info> common\settings.cpp:operator ():103: -- Debugging.enable_all_controllers: false
+[  18.383970] Config <Info> common\settings.cpp:operator ():103: -- Debugging.create_crash_dumps: false
+[  18.383971] Config <Info> common\settings.cpp:operator ():103: -- Debugging.perform_vulkan_check: true
+[  18.383973] Config <Info> common\settings.cpp:operator ():103: -- Debugging.dump_shaders: false
+[  18.383974] Config <Info> common\settings.cpp:operator ():103: -- Debugging.dump_macros: false
+[  18.383975] Config <Info> common\settings.cpp:operator ():103: -- Debugging.disable_macro_jit: false
+[  18.383976] Config <Info> common\settings.cpp:operator ():103: -- Debugging.disable_macro_hle: false
+[  18.383977] Config <Info> common\settings.cpp:operator ():103: -- Miscellaneous.log_filter: *:Info
+[  18.383978] Config <Info> common\settings.cpp:operator ():103: -- Miscellaneous.use_dev_keys: false
+[  18.383979] Config <Info> common\settings.cpp:operator ():103: M- Network.network_interface: None
+[  18.383981] Config <Info> common\settings.cpp:operator ():103: M- WebService.enable_telemetry: false
+[  18.383982] Config <Info> common\settings.cpp:operator ():103: -- WebService.web_api_url: https://api.yuzu-emu.org
+[  18.383984] Config <Info> common\settings.cpp:operator ():103: -- WebService.yuzu_username: 
+[  18.383985] Config <Info> common\settings.cpp:operator ():103: -- Controls.enable_raw_input: false
+[  18.383986] Config <Info> common\settings.cpp:operator ():103: -- Controls.controller_navigation: true
+[  18.383987] Config <Info> common\settings.cpp:operator ():103: -- Controls.enable_joycon_driver: true
+[  18.383988] Config <Info> common\settings.cpp:operator ():103: -- Controls.enable_procon_driver: false
+[  18.383990] Config <Info> common\settings.cpp:operator ():103: -- Controls.vibration_enabled: true
+[  18.383991] Config <Info> common\settings.cpp:operator ():103: -- Controls.enable_accurate_vibrations: false
+[  18.383992] Config <Info> common\settings.cpp:operator ():103: -- Controls.motion_enabled: true
+[  18.384000] Config <Info> common\settings.cpp:operator ():103: -- Controls.udp_input_servers: 127.0.0.1:26760
+[  18.384001] Config <Info> common\settings.cpp:operator ():103: -- Controls.enable_udp_controller: false
+[  18.384002] Config <Info> common\settings.cpp:operator ():103: -- Controls.pause_tas_on_load: true
+[  18.384003] Config <Info> common\settings.cpp:operator ():103: -- Controls.tas_enable: false
+[  18.384004] Config <Info> common\settings.cpp:operator ():103: -- Controls.tas_loop: false
+[  18.384005] Config <Info> common\settings.cpp:operator ():103: -- Controls.mouse_panning: false
+[  18.384006] Config <Info> common\settings.cpp:operator ():103: -- Controls.mouse_panning_sensitivity: 50
+[  18.384007] Config <Info> common\settings.cpp:operator ():103: -- Controls.mouse_enabled: false
+[  18.384009] Config <Info> common\settings.cpp:operator ():103: -- Controls.mouse_panning_x_sensitivity: 50
+[  18.384010] Config <Info> common\settings.cpp:operator ():103: -- Controls.mouse_panning_y_sensitivity: 50
+[  18.384011] Config <Info> common\settings.cpp:operator ():103: -- Controls.mouse_panning_deadzone_counterweight: 20
+[  18.384012] Config <Info> common\settings.cpp:operator ():103: -- Controls.mouse_panning_decay_strength: 18
+[  18.384013] Config <Info> common\settings.cpp:operator ():103: -- Controls.mouse_panning_min_decay: 6
+[  18.384021] Config <Info> common\settings.cpp:operator ():103: -- Controls.emulate_analog_keyboard: false
+[  18.384022] Config <Info> common\settings.cpp:operator ():103: -- Controls.keyboard_enabled: false
+[  18.384024] Config <Info> common\settings.cpp:operator ():103: -- Controls.debug_pad_enabled: false
+[  18.384025] Config <Info> common\settings.cpp:operator ():103: -- Controls.touch_device: min_x:100,min_y:50,max_x:1800,max_y:850
+[  18.384027] Config <Info> common\settings.cpp:operator ():103: M- Controls.touch_from_button_map: 1
+[  18.384028] Config <Info> common\settings.cpp:operator ():103: M- Controls.enable_ring_controller: false
+[  18.384029] Config <Info> common\settings.cpp:operator ():103: -- Controls.enable_ir_sensor: false
+[  18.384030] Config <Info> common\settings.cpp:operator ():103: -- Controls.ir_sensor_device: auto
+[  18.384031] Config <Info> common\settings.cpp:operator ():103: -- Controls.random_amiibo_id: false
+[  18.384034] Config <Info> common\settings.cpp:operator ():107: DataStorage_CacheDir: C:\Users\User\AppData\Roaming\yuzu\cache
+[  18.384035] Config <Info> common\settings.cpp:operator ():107: DataStorage_ConfigDir: C:\Users\User\AppData\Roaming\yuzu\config
+[  18.384036] Config <Info> common\settings.cpp:operator ():107: DataStorage_LoadDir: C:\Users\User\AppData\Roaming\yuzu\load
+[  18.384037] Config <Info> common\settings.cpp:operator ():107: DataStorage_NANDDir: C:\Users\User\AppData\Roaming\yuzu\nand
+[  18.384038] Config <Info> common\settings.cpp:operator ():107: DataStorage_SDMCDir: C:\Users\User\AppData\Roaming\yuzu\sdmc
+[  18.538613] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:950: Device doesn't support extension VK_EXT_conservative_rasterization
+[  18.538619] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:950: Device doesn't support extension VK_EXT_depth_bias_control
+[  18.538621] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:950: Device doesn't support extension VK_EXT_extended_dynamic_state3
+[  18.538622] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:950: Device doesn't support extension VK_NV_geometry_shader_passthrough
+[  18.538623] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:950: Device doesn't support extension VK_NV_viewport_array2
+[  18.538624] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:950: Device doesn't support extension VK_NV_viewport_swizzle
+[  18.538632] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:1012: Device doesn't support feature depthBiasControl
+[  18.538633] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:1012: Device doesn't support feature leastRepresentableValueForceUnormRepresentation
+[  18.538634] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:1012: Device doesn't support feature depthBiasExact
+[  18.538635] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:1012: Device doesn't support feature primitiveTopologyListRestart
+[  18.538636] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:1012: Device doesn't support feature shaderFloat16
+[  18.538675] Render.Vulkan <Warning> video_core\vulkan_common\vulkan_device.cpp:Device:541: Volta and older have broken VK_KHR_push_descriptor
+[  18.759106] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:950: Device doesn't support extension VK_EXT_conservative_rasterization
+[  18.759113] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:950: Device doesn't support extension VK_EXT_depth_bias_control
+[  18.759115] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:950: Device doesn't support extension VK_EXT_extended_dynamic_state3
+[  18.759117] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:950: Device doesn't support extension VK_NV_geometry_shader_passthrough
+[  18.759118] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:950: Device doesn't support extension VK_NV_viewport_array2
+[  18.759119] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:950: Device doesn't support extension VK_NV_viewport_swizzle
+[  18.759125] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:1012: Device doesn't support feature depthBiasControl
+[  18.759126] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:1012: Device doesn't support feature leastRepresentableValueForceUnormRepresentation
+[  18.759127] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:1012: Device doesn't support feature depthBiasExact
+[  18.759128] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:1012: Device doesn't support feature primitiveTopologyListRestart
+[  18.759128] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:1012: Device doesn't support feature shaderFloat16
+[  18.759162] Render.Vulkan <Warning> video_core\vulkan_common\vulkan_device.cpp:Device:541: Volta and older have broken VK_KHR_push_descriptor
+[  18.800148] Render.Vulkan <Info> video_core\renderer_vulkan\renderer_vulkan.cpp:Report:159: Driver: NVIDIA 474.14.0.0
+[  18.800153] Render.Vulkan <Info> video_core\renderer_vulkan\renderer_vulkan.cpp:Report:160: Device: NVIDIA GeForce GTX 660
+[  18.800154] Render.Vulkan <Info> video_core\renderer_vulkan\renderer_vulkan.cpp:Report:161: Vulkan: 1.2.175
+[  18.800160] Render.Vulkan <Info> video_core\renderer_vulkan\renderer_vulkan.cpp:Report:162: Available VRAM: 1.45 GiB
+[  18.822743] Service.Audio <Info> audio_core\sink\sink_details.cpp:GetOutputSinkDetails:87: Auto-selecting the cubeb backend
+[  18.838326] Service.Audio <Info> audio_core\sink\sink_details.cpp:GetOutputSinkDetails:87: Auto-selecting the cubeb backend
+[  18.863687] Loader <Info> core\file_sys\patch_manager.cpp:PatchExeFS:131: Patching ExeFS for title_id=010093801237C000
+[  18.864075] Loader <Info> core\file_sys\patch_manager.cpp:PatchExeFS:177:     ExeFS: LayeredExeFS patches applied successfully
+[  19.620766] Loader <Info> core\file_sys\patch_manager.cpp:HasNSOPatch:301: Querying NSO patch existence for build_id=6F8B1226CC8CD958021D6BFD226EBF23F892AB9B, name=rtld
+[  20.233718] Loader <Info> core\file_sys\patch_manager.cpp:HasNSOPatch:301: Querying NSO patch existence for build_id=49161D9CCBC15DF944D0B6278A3C446C006B0BE8, name=main
+[  21.320515] Loader <Info> core\file_sys\patch_manager.cpp:HasNSOPatch:301: Querying NSO patch existence for build_id=507F19D1240D09D00992248E8A0FD77EBD784EB4, name=subsdk0
+[  21.391420] Loader <Info> core\file_sys\patch_manager.cpp:HasNSOPatch:301: Querying NSO patch existence for build_id=2D369D9999E3E10E665106F840FFFF9BDAA0BB8E, name=sdk
+[  21.523092] Frontend <Info> yuzu\main.cpp:BootGame:2025: Booting game: 010093801237C000 | Metroid Dread (64-bit) | 1.0.0
+[  21.530947] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:LoadVulkanPipelineCache:844: Loaded Vulkan driver pipeline cache: 
+[  21.533453] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x58544c2b648e62be
+[  21.533466] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x528557470231c2d2
+[  21.533552] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x634d72ea2cc5748b
+[  21.534816] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x58a6bbe766d69c6d
+[  21.535492] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x5202ea435bb422b8
+[  21.535601] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x2ddb827c3a1c2299
+[  21.535955] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x1af773b4f6046429
+[  21.536477] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x581b890cf8d74765
+[  21.536500] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xd34c1d56ec33f024
+[  21.536510] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xa3b445a96599027c
+[  21.537785] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x333ead8a3c42aa7b
+[  21.537785] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x958d64f46c218b4c
+[  21.537807] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xe5cf7a6504fc1d2b
+[  21.538774] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:LoadDiskResources:527: Total Pipeline Count: 141
+[  21.539764] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xbf07defac41d8fdd
+[  21.539767] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x5795a207ea13a4c7
+[  21.539939] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xb226c08ac8a7c43a
+[  21.541291] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xcbc17c5f10df66d6
+[  21.541300] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x73c5c7f0df3b5cbf
+[  21.542172] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x5dac181c7d0814c7
+[  21.543583] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x317c413bc3c9703e
+[  21.543731] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x363ca79101e0da56
+[  21.543826] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x7bb55d9b528c7796
+[  21.545729] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x2c387f491e791c1d
+[  21.546453] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x217bd9a71ed372ec
+[  21.546580] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x338e4640f36ee99a
+[  21.548340] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x500aa8c08ade356d
+[  21.548392] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x831c96e8e43e46dc
+[  21.548431] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x3711ec6324ec8482
+[  21.549721] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xd3fe15e75f467e7e
+[  21.550238] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xb8c30628f6c39b9e
+[  21.550243] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xb20d844a3e115a93
+[  21.550260] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x0b083ac444d1fe3f
+[  21.551317] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x102d12ae13620132
+[  21.551408] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x2ee610cb73e9087f
+[  21.552006] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xb2b8acef1d0f94d5
+[  21.552402] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x7151c8cfe75cd500
+[  21.552539] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xe8bdd599fc8e2a7c
+[  21.552785] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xdee62fe4a1e0e429
+[  21.553725] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x09e7173a42b7e67f
+[  21.553764] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xac5a2afb9be56196
+[  21.554184] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x398792fd30e1ab22
+[  21.554830] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xe54703669a5fbad9
+[  21.554922] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x4ab460425a515aba
+[  21.556228] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xe72eeca9350be698
+[  21.556236] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x9c7c69cd97f7cc76
+[  21.556532] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x4409394b794d7e8b
+[  21.557563] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x1f53d94771f77202
+[  21.557661] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x45ae912476265e34
+[  21.557703] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x27194f2348b8f7c6
+[  21.558686] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x3279467fde958872
+[  21.558716] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x6a3597fce629017c
+[  21.559610] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x30f1f6d16fb612ef
+[  21.559830] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xf2e1ff4a3ef4e396
+[  21.560122] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xd25afe8d1678509b
+[  21.560613] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x49c42500a6e8644c
+[  21.561071] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x01d016edab91584d
+[  21.562222] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xe104a83811611a55
+[  21.563185] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xdd5679738a8251cc
+[  21.563320] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xf9d8fe03788e167d
+[  21.564553] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x481159e06dc9831a
+[  21.565453] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x474c9c2eaa8a7f17
+[  21.566245] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xa51689613a01ec91
+[  21.566895] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x026ea49c90e58327
+[  21.567054] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xfcb2f2a58ccf6c96
+[  21.567362] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x831e2616452e57cb
+[  21.567865] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xf892d34e9fb9c983
+[  21.569331] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xfd06106e5e6f39e0
+[  21.569481] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x2c6e493bcf7c6e09
+[  21.569569] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x05e396b8ea2084e6
+[  21.570094] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x41f24bafb835eaa9
+[  21.570536] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xf78fac8c83260da4
+[  21.572153] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x4052e29fd1cd959a
+[  21.572260] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x3710ee4b9bfc6276
+[  21.572690] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x84a43300cfe4f229
+[  21.573164] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xa43ecec85fe8d237
+[  21.573567] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xad74a7dd78dad052
+[  21.573724] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x69c5f126c627c2e8
+[  21.574564] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x9704c18ce99b2d1e
+[  21.575227] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x9334767fdd54a204
+[  21.575975] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x7af3317bf470c049
+[  21.576042] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xc19856ca034a2a0a
+[  21.576253] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xac69b522f91379ae
+[  21.576758] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xc885634e59e80bc7
+[  21.577338] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x498ca0bada4ae9d7
+[  21.577394] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xe67eba642bc9b829
+[  21.578038] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xf3f8ee9543e53e95
+[  21.578694] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xa5e9cfb02215aa26
+[  21.578724] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x48dd66f66e3faae3
+[  21.579266] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x5dd98b53cfc142a1
+[  21.579873] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x756476e5d4a18a60
+[  21.580000] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xb97e538c3e8b4f40
+[  21.580172] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x95982e3024217859
+[  21.582048] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x12242085767cdcb3
+[  21.582362] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x2c5185b785f296b6
+[  21.582985] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xda78be042df5f578
+[  21.583309] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xea2af8fd16344e76
+[  21.583612] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xf4e7a3554ddebcaa
+[  21.584732] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x4f87879128d7f0bb
+[  21.584740] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xa9c2fcfcf9b43c44
+[  21.584846] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x98450cd590f35eac
+[  21.586106] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xde145ba8ed8d7ca7
+[  21.586108] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x79c00b09c760b5e9
+[  21.586496] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x02fa55fc0b61c40d
+[  21.587156] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xdcd5412706447ed1
+[  21.587221] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x158d061ba622814c
+[  21.587247] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xa477f8f064c6ec3f
+[  21.587724] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x353335f76270e59a
+[  21.588053] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xd53b7ebdb4c386f7
+[  21.588075] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x21ab1d4b3fdc0e7c
+[  21.588239] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x5aad543160fca833
+[  21.590536] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x42a10b1cc7fee76c
+[  21.590620] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xb07341de3664dd03
+[  21.590632] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xcef82a7a6ae9ee62
+[  21.593095] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xfa49e77892521c2a
+[  21.593197] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x9063d2225251094d
+[  21.593207] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x515221b0329cbe47
+[  21.594665] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x5f5daa94862f99d4
+[  21.594759] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x187ea99daf8b3a29
+[  21.595302] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xf2c171fc47907752
+[  21.595787] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x2a2cbca92b6eb389
+[  21.595905] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xd3d4abda3a6a7077
+[  21.596105] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x3f9ebcf1acfeea8d
+[  21.597318] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xc0f750dc7ac8b1fb
+[  21.597409] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xf237016b0efd6a3c
+[  21.597862] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xc63746ca8f7ca5dd
+[  21.599720] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x0cb1cefe781d8924
+[  21.599720] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x15d76dfaa4a1109f
+[  21.599828] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x64043d333d27e8b9
+[  21.600959] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x6863644c945bde5c
+[  21.602031] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xb53990b4486a6fbe
+[  21.602418] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xb695527e64b1c2de
+[  21.603451] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x8d9539db4ecbbe56
+[  21.604321] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xd332480411f51ad2
+[  21.604402] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x484341f7245cb4f9
+[  21.605136] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x9823f6cab0829b0a
+[  21.605528] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x73fe6ec9ec4a1375
+[  21.607670] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xd5b2fae8ce0cea09
+[  21.607674] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x28d1bfb59fa47b30
+[  21.607671] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x7a507bf65ab764a2
+[  21.609389] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0x6081d67239cb46a3
+[  21.609394] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:589: 0xedf50039edd27df6
+[  21.614648] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:SerializeVulkanPipelineCache:787: Vulkan driver pipelines cached at: C:\Users\User\AppData\Roaming\yuzu\shader\010093801237c000\vulkan_pipelines.bin
+[  22.953656] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:72: (STUBBED) called
+[  22.963713] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:72: (STUBBED) called
+[  22.974522] Service.AM <Warning> core\hle\service\am\am.cpp:SetRequestExitToLibraryAppletAtExecuteNextProgramEnabled:1073: (STUBBED) called
+[  22.976611] Service.AM <Warning> core\hle\service\am\am.cpp:GetGpuErrorDetectedSystemEvent:2289: (STUBBED) called
+[  22.985971] Service.AM <Warning> core\hle\service\am\am.cpp:AcquireForegroundRights:99: (STUBBED) called
+[  22.986703] Service.AM <Warning> core\hle\service\am\am.cpp:SetFocusHandlingMode:478: (STUBBED) called. unknown0=0, unknown1=0, unknown2=1
+[  22.987431] Service.AM <Warning> core\hle\service\am\am.cpp:SetOutOfFocusSuspendingEnabled:497: (STUBBED) called enabled=false
+[  22.990973] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:72: (STUBBED) called
+[  22.997302] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:72: (STUBBED) called
+[  22.999595] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:72: (STUBBED) called
+[  23.003089] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:72: (STUBBED) called
+[  23.003339] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:72: (STUBBED) called
+[  28.905753] Service.NVDRV <Warning> core\hle\service\nvdrv\nvdrv_interface.cpp:Initialize:152: (STUBBED) called
+[  28.910036] Service.NVDRV <Warning> core\hle\service\nvdrv\nvdrv_interface.cpp:SetAruid:192: (STUBBED) called, pid=0x87
+[  28.911545] Service.NVDRV <Warning> core\hle\service\nvdrv\nvdrv_interface.cpp:SetGraphicsFirmwareMemoryMarginEnabled:200: (STUBBED) called
+[  28.913562] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:72: (STUBBED) called
+[  28.920968] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:427: Patching RomFS for title_id=010093801237C000, type=01
+[  28.938598] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:72: (STUBBED) called
+[  28.939420] Service.ACC <Warning> core\hle\service\acc\acc.cpp:InitializeApplicationInfoRestricted:749: (Partial implementation) called
+[  28.939423] Service.ACC <Warning> core\hle\service\acc\acc.cpp:InitializeApplicationInfoBase:793: ApplicationInfo init required
+[  28.940490] Service.AM <Info> core\hle\service\am\am.cpp:PopLaunchParameter:1913: called, kind=00000002
+[  28.949312] Service.AM <Warning> core\hle\service\am\am.cpp:SetOperationModeChangedNotification:449: (STUBBED) called flag=true
+[  28.949642] Service.AM <Warning> core\hle\service\am\am.cpp:SetPerformanceModeChangedNotification:459: (STUBBED) called flag=true
+[  28.954209] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:72: (STUBBED) called
+[  33.886010] Service.HID <Info> core\hid\emulated_controller.cpp:SetPollingMode:1240: Set polling mode 0, device_index=3
+[  33.886284] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:72: (STUBBED) called
+[  33.933438] Service.Audio <Info> audio_core\sink\cubeb_sink.cpp:CubebSinkStream:78: Opening cubeb stream ADSP_RenderStream-0 type 0 with: rate 48000 channels 2 (system channels 2) latency 480
+[  33.953191] Service.Audio <Info> audio_core\sink\cubeb_sink.cpp:CubebSinkStream:78: Opening cubeb stream ADSP_RenderStream-1 type 0 with: rate 48000 channels 2 (system channels 2) latency 480
+[  34.094263] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:72: (STUBBED) called
+[  34.096384] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:72: (STUBBED) called
+[  34.096736] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:72: (STUBBED) called
+[  34.097096] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:72: (STUBBED) called
+[  34.097575] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:72: (STUBBED) called
+[  34.152073] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetManagerDisplayService:571: (STUBBED) called
+[  34.152803] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetSystemDisplayService:563: (STUBBED) called
+[  34.153546] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetRelayService:555: (STUBBED) called
+[  34.166565] Service.VI <Warning> core\hle\service\vi\vi.cpp:OpenDisplay:587: (STUBBED) called
+[  34.168530] Service.AM <Warning> core\hle\service\am\am.cpp:CreateManagedDisplaySeparableLayer:568: (STUBBED) called
+[  34.175404] Service.VI <Warning> core\hle\service\vi\vi.cpp:AdjustRefcount:113: (STUBBED) called id=1, addval=00000001, type=00000000
+[  34.176231] Service.VI <Warning> core\hle\service\vi\vi.cpp:AdjustRefcount:113: (STUBBED) called id=1, addval=00000001, type=00000001
+[  34.181117] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetNativeHandle:124: (STUBBED) called id=1, unknown=0000000F
+[  34.222223] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:72: (STUBBED) called
+[  34.362977] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl_gpu.cpp:ZBCSetTable:251: (STUBBED) called
+[  34.362981] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl_gpu.cpp:ZBCSetTable:259: Avoiding passing null pointer to memcpy
+[  34.363488] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl_gpu.cpp:ZBCSetTable:251: (STUBBED) called
+[  34.363492] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl_gpu.cpp:ZBCSetTable:259: Avoiding passing null pointer to memcpy
+[  34.363687] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl_gpu.cpp:ZBCSetTable:251: (STUBBED) called
+[  34.363690] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl_gpu.cpp:ZBCSetTable:259: Avoiding passing null pointer to memcpy
+[  34.364144] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl_gpu.cpp:ZBCSetTable:251: (STUBBED) called
+[  34.364148] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_ctrl_gpu.cpp:ZBCSetTable:259: Avoiding passing null pointer to memcpy
+[  34.369963] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:AllocGPFIFOEx2:185: (STUBBED) called, num_entries=800, flags=1, unk0=0, unk1=0, unk2=0, unk3=0
+[  34.370598] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:AllocateObjectContext:204: (STUBBED) called, class_num=B197, flags=0
+[  34.371434] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:SetErrorNotifier:165: (STUBBED) called, offset=0, size=1000, mem=20
+[  34.371893] Service.NVDRV <Info> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:ChannelSetTimeout:344: called, timeout=0x266
+[  34.373745] Service.NVDRV <Info> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:ChannelSetTimeslice:352: called, timeslice=0x400
+[  34.400104] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:72: (STUBBED) called
+[  34.439416] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:72: (STUBBED) called
+[  43.879774] Service.AM <Warning> core\hle\service\am\am.cpp:NotifyRunning:2117: (STUBBED) called
+[  43.994331] Service.FS <Info> core\hle\service\filesystem\fsp_srv.cpp:OpenSaveDataFileSystem:942: called.
+[  44.620725] Service.NVDRV <Info> core\hle\service\nvdrv\devices\nvhost_nvdec.cpp:OnOpen:71: NVDEC video stream started
+[  44.628042] Service.MM <Warning> core\hle\service\mm\mm_u.cpp:Initialize:66: (STUBBED) called
+[  44.744608] Service.NVDRV <Info> core\hle\service\nvdrv\devices\nvhost_nvdec.cpp:OnOpen:71: NVDEC video stream started
+[  44.745124] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_nvdec_common.cpp:SetSubmitTimeout:177: (STUBBED) called
+[  44.800207] Service.NVDRV <Info> video_core\host1x\codecs\codec.cpp:SetTargetCodec:268: NVDEC video codec initialized to VP9
+[  44.842964] Service.NVDRV <Info> video_core\host1x\codecs\codec.cpp:CreateGpuAvDevice:150: Using cuda GPU decoder
+[  44.848113] Service.NVDRV <Info> video_core\host1x\codecs\codec.cpp:GetGpuFormat:56: Could not find compatible GPU AV format, falling back to CPU
+[  46.327241] Service.MM <Warning> core\hle\service\mm\mm_u.cpp:Finalize:74: (STUBBED) called
+[  46.337581] Service.NVDRV <Info> core\hle\service\nvdrv\devices\nvhost_nvdec.cpp:OnClose:76: NVDEC video stream ended
+[  46.347941] Service.NVDRV <Info> core\hle\service\nvdrv\devices\nvhost_nvdec.cpp:OnClose:76: NVDEC video stream ended
+[  46.407584] Service.NVDRV <Info> core\hle\service\nvdrv\devices\nvhost_nvdec.cpp:OnOpen:71: NVDEC video stream started
+[  46.408202] Service.MM <Warning> core\hle\service\mm\mm_u.cpp:Initialize:66: (STUBBED) called
+[  46.471162] Service.NVDRV <Info> core\hle\service\nvdrv\devices\nvhost_nvdec.cpp:OnOpen:71: NVDEC video stream started
+[  46.471271] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_nvdec_common.cpp:SetSubmitTimeout:177: (STUBBED) called
+[  46.477426] Service.NVDRV <Info> video_core\host1x\codecs\codec.cpp:SetTargetCodec:268: NVDEC video codec initialized to VP9
+[  46.504862] Service.NVDRV <Info> video_core\host1x\codecs\codec.cpp:CreateGpuAvDevice:150: Using cuda GPU decoder
+[  46.509072] Service.NVDRV <Info> video_core\host1x\codecs\codec.cpp:GetGpuFormat:56: Could not find compatible GPU AV format, falling back to CPU
+[  48.265305] Service.MM <Warning> core\hle\service\mm\mm_u.cpp:Finalize:74: (STUBBED) called
+[  48.267268] Service.NVDRV <Info> core\hle\service\nvdrv\devices\nvhost_nvdec.cpp:OnClose:76: NVDEC video stream ended
+[  48.279402] Service.NVDRV <Info> core\hle\service\nvdrv\devices\nvhost_nvdec.cpp:OnClose:76: NVDEC video stream ended
+[  48.296198] Service.NVDRV <Info> core\hle\service\nvdrv\devices\nvhost_nvdec.cpp:OnOpen:71: NVDEC video stream started
+[  48.296699] Service.MM <Warning> core\hle\service\mm\mm_u.cpp:Initialize:66: (STUBBED) called
+[  48.359844] Service.NVDRV <Info> core\hle\service\nvdrv\devices\nvhost_nvdec.cpp:OnOpen:71: NVDEC video stream started
+[  48.359957] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_nvdec_common.
